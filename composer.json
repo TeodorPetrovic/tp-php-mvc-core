@@ -1,0 +1,15 @@
+{
+    "name": "tp/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Tp\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TeodorPetrovic",
+            "email": "teodor.z.petrovic@gmail.com"
+        }
+    ],
+    "require": {}
+}
